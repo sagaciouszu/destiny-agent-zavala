@@ -1,0 +1,46 @@
+{
+  "id": "zavala",
+  "name": "Zavala",
+  "title": "Commander",
+  "speaker": "Zavala",
+  "status": "ready",
+  "ready": true,
+  "canon_lines": 575,
+  "canon_variant_lines": 0,
+  "activities": {
+    "vox-obscura": 39,
+    "nightmare-containment": 32,
+    "derelict-leviathan": 12,
+    "battlegrounds-chosen": 11,
+    "contact": 10,
+    "sever": 3,
+    "vex-offensive": 1
+  },
+  "seasons": {
+    "season-of-the-deep": 74,
+    "season-of-the-haunted": 47,
+    "season-of-the-risen": 40,
+    "season-of-arrivals": 22,
+    "season-of-the-chosen": 15,
+    "season-of-the-worthy": 11,
+    "season-2": 7,
+    "season-1": 5,
+    "season-of-the-undying": 1,
+    "season-of-the-splicer": 1,
+    "season-of-the-seraph": 1,
+    "season-of-defiance": 1,
+    "season-of-dawn": 1,
+    "season-4": 1
+  },
+  "source_tiers": {
+    "ishtar_web": 478,
+    "ishtar_main": 73,
+    "cutscene": 13,
+    "ishtar_commons": 8,
+    "validated": 2,
+    "published": 1
+  },
+  "grimoire_version": "1.3.0",
+  "manifest_version": "245114.26.10.13.2000-1-bnet.66137",
+  "sourced_at": "2026-11-04"
+}
