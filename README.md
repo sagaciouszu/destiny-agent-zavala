@@ -1,5 +1,7 @@
 # Zavala - Agent
 
+> **Version:** 0.1.0 | **Last updated:** 2026-11-04 | **Status:** Ready
+
 > **Depends On:** AGENTS.md
 > **Token Estimate:** ~379 tokens
 
