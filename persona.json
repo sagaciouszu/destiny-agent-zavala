@@ -5,7 +5,7 @@
   "speaker": "Zavala",
   "status": "ready",
   "ready": true,
-  "canon_lines": 617,
+  "canon_lines": 638,
   "canon_variant_lines": 0,
   "activities": {
     "vox-obscura": 39,
@@ -42,5 +42,5 @@
   },
   "grimoire_version": "1.3.0",
   "manifest_version": "245114.26.10.13.2000-1-bnet.66137",
-  "sourced_at": "2026-11-04"
+  "sourced_at": "2026-11-05"
 }
