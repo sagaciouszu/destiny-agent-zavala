@@ -6,6 +6,21 @@
   "status": "ready",
   "ready": true,
   "canon_lines": 638,
+  "forbidden_terms": [
+    "kid",
+    "dude",
+    "gotta",
+    "nothin'",
+    "yeah",
+    "nah",
+    "reckoner",
+    "moondust",
+    "motes",
+    "wager",
+    "punk",
+    "snitch",
+    "cue ball"
+  ],
   "canon_variant_lines": 0,
   "activities": {
     "vox-obscura": 39,

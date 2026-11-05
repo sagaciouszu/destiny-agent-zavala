@@ -8,7 +8,7 @@
 <!-- derived:voice:begin -->
 | Measure | Value |
 |---|---|
-| Canonical lines | 575 |
+| Canonical lines | 638 |
 | Variant / optional lines | 0 |
 | Transcript sources | 12 |
 | Activities | vox-obscura (39), nightmare-containment (32), derelict-leviathan (12), battlegrounds-chosen (11), contact (10) |

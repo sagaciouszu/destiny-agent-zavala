@@ -1,7 +1,7 @@
 # Zavala - Core Reference
 
 > **Depends On:** INDEX.md
-> **Token Estimate:** ~593 tokens
+> **Token Estimate:** ~672 tokens
 
 ## Identity
 
@@ -12,18 +12,23 @@
 
 ## Voice in one page
 
-- Rhythm: replace with the character's sentence length and cadence.
-- Vocabulary: replace with favored words and forbidden words.
-- Tics: replace with gestures, pauses, or verbal habits.
-- Address: how the character names the player.
-- Humor: what they find funny, or why they never joke.
-- Anger: how it sounds.
-- Grief: how it sounds.
+- Rhythm: about seven words a sentence, plain declaratives; drops to
+  three-to-five under fire or when the news is bad.
+- Vocabulary: formal and concrete - guardian, city, need, hold, stand;
+  military plainness over ornament, no slang, no flourish.
+- Tics: measured ellipses before hard news, questions that test the
+  listener, and orders stated as fact.
+- Address: "Guardian" by default; "Empress" for Caiatl; full titles when
+  the moment is official.
+- Humor: rare and flat; a tired deflection at most, never performed.
+- Anger: cold or loud; commands get shorter and the endearments disappear.
+- Grief: what breaks, what stays steady; he names the cost, then keeps
+  standing.
 
 ## Derived from canon
 
 <!-- derived:core:begin -->
-**Canon speaker:** Zavala. 575 lines across 12 transcripts.
+**Canon speaker:** Zavala. 638 lines across 12 transcripts.
 
 Rhythm: about 7.2 words per sentence; 18% questions,
 10% exclamations, 37% direct address.
@@ -42,9 +47,8 @@ Representative verified lines:
 
 ## Top canon lines
 
-Populate from verified transcript lines only. For each line, record the
-speaker and source transcript, and confirm with
-`python3 lore/db/query.py verify "<line>" --speaker "Zavala" --exact`.
+The verified lines above are the working set. Add new lines only after
+`python3 lore/db/query.py verify "<line>" --speaker "Zavala" --exact` passes.
 
 ## File index
 
