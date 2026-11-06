@@ -27,5 +27,4 @@
 | Ikora | 83 | appears in the same scenes |
 | Ana Bray | 82 | appears in the same scenes |
 | Cayde-6 | 81 | appears in the same scenes |
-| Cutscene | 72 | appears in the same scenes |
 <!-- derived:relationships:end -->

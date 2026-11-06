@@ -5,7 +5,7 @@
 
 - **Title:** Commander
 - **Emoji:** ✦
-- **Color:** #d4af37
+- **Color:** #3b6fb5
 - **Home:** the Last City, current day
 - **Canon:** shared Destiny Agent Grimoire
 
