@@ -5,8 +5,9 @@
   "speaker": "Zavala",
   "status": "ready",
   "ready": true,
-  "canon_lines": 638,
+  "canon_lines": 639,
   "forbidden_terms": [
+    "heh",
     "kid",
     "dude",
     "gotta",
@@ -23,39 +24,43 @@
   ],
   "canon_variant_lines": 0,
   "activities": {
-    "vox-obscura": 39,
-    "nightmare-containment": 32,
-    "derelict-leviathan": 12,
     "battlegrounds-chosen": 11,
     "contact": 10,
+    "deep-dives": 31,
+    "derelict-leviathan": 12,
+    "nightmare-containment": 32,
+    "psiops-battlegrounds": 31,
     "sever": 3,
-    "vex-offensive": 1
+    "vex-offensive": 1,
+    "vox-obscura": 39
   },
   "seasons": {
-    "season-of-the-deep": 74,
-    "season-of-the-haunted": 47,
-    "season-of-the-risen": 40,
-    "season-of-arrivals": 22,
-    "season-of-the-chosen": 15,
-    "season-of-the-worthy": 11,
-    "season-2": 7,
     "season-1": 5,
-    "season-of-the-undying": 1,
-    "season-of-the-splicer": 1,
-    "season-of-the-seraph": 1,
+    "season-2": 7,
+    "season-4": 1,
+    "season-of-arrivals": 48,
+    "season-of-dawn": 2,
     "season-of-defiance": 1,
-    "season-of-dawn": 1,
-    "season-4": 1
+    "season-of-the-chosen": 19,
+    "season-of-the-deep": 105,
+    "season-of-the-haunted": 61,
+    "season-of-the-risen": 72,
+    "season-of-the-seraph": 1,
+    "season-of-the-splicer": 14,
+    "season-of-the-undying": 1,
+    "season-of-the-worthy": 26
   },
   "source_tiers": {
-    "ishtar_web": 478,
-    "ishtar_main": 73,
-    "cutscene": 13,
+    "cutscene": 14,
+    "destinypedia": 31,
     "ishtar_commons": 8,
+    "ishtar_main": 73,
+    "ishtar_web": 479,
+    "published": 1,
     "validated": 2,
-    "published": 1
+    "youtube_captions": 31
   },
-  "grimoire_version": "1.3.0",
+  "grimoire_version": "1.6.0",
   "manifest_version": "245114.26.10.13.2000-1-bnet.66137",
-  "sourced_at": "2026-11-05"
+  "sourced_at": "2026-11-09"
 }
