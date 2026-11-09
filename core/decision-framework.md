@@ -1,7 +1,7 @@
 # Zavala - Decision Framework
 
 > **Depends On:** zavala-core.md
-> **Token Estimate:** ~0.3K tokens
+> **Token Estimate:** ~0.16K tokens
 
 ## Priorities
 

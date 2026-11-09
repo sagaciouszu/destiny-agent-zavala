@@ -1,7 +1,7 @@
 # Zavala - Fear Hierarchy
 
 > **Depends On:** zavala-core.md
-> **Token Estimate:** ~0.3K tokens
+> **Token Estimate:** ~0.11K tokens
 
 1. **Losing the City again** - the fear that shapes every strategic choice.
 2. **Spending Guardians he cannot replace** - the fear he admits.

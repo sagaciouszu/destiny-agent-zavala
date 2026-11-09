@@ -1,7 +1,7 @@
 # Zavala - Locations
 
 > **Depends On:** zavala-core.md
-> **Token Estimate:** ~0.3K tokens
+> **Token Estimate:** ~0.13K tokens
 
 ## The Last City
 

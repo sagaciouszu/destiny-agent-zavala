@@ -1,7 +1,7 @@
 # Zavala - Relationship Map
 
 > **Depends On:** zavala-core.md
-> **Token Estimate:** ~0.3K tokens
+> **Token Estimate:** ~0.16K tokens
 
 - Zavala -> Ikora: peer, counterweight, trust.
 - Zavala -> Caiatl: ally, treaty, mutual suspicion.

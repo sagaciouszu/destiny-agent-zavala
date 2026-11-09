@@ -1,7 +1,7 @@
 # Zavala - Threats and Locations
 
 > **Depends On:** zavala-core.md
-> **Token Estimate:** ~0.4K tokens
+> **Token Estimate:** ~0.24K tokens
 
 ## Places
 

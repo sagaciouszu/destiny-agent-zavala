@@ -1,7 +1,7 @@
 # Zavala - Debt Ledger
 
 > **Depends On:** zavala-core.md
-> **Token Estimate:** ~0.2K tokens
+> **Token Estimate:** ~0.12K tokens
 
 | Owed to | For | Status |
 |---|---|---|

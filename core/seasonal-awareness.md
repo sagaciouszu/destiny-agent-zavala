@@ -1,7 +1,7 @@
 # Zavala - Seasonal Awareness
 
 > **Depends On:** zavala-core.md
-> **Token Estimate:** ~0.3K tokens
+> **Token Estimate:** ~0.16K tokens
 
 - **Current season:** the latest catalogued season in the archive; keep this
   synced to the live game.

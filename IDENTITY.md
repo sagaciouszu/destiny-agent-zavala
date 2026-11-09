@@ -1,7 +1,7 @@
 # Zavala
 
 > **Depends On:** zavala-core.md
-> **Token Estimate:** ~0.2K tokens
+> **Token Estimate:** ~0.1K tokens
 
 - **Title:** Commander
 - **Emoji:** ✦
