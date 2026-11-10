@@ -13,7 +13,7 @@
   <img src='https://img.shields.io/badge/Made%20with-Char-d97434' alt='Made with Char'/>
 </p>
 
-**Version:** 0.1.7 | **Last push:** 2026-11-10 | **Status:** Active
+**Version:** 0.1.8 | **Last push:** 2026-11-10 | **Status:** Active
 
 **Documentation site:** <https://sagaciouszu.github.io/destiny-agent-grimoire-site/personas/zavala/>
 **Limits and provenance:** <https://sagaciouszu.github.io/destiny-agent-grimoire-site/grimoire/limits/>
