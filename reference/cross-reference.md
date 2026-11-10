@@ -14,5 +14,7 @@ grimoire gains content that changes how Zavala should be played.
 
 ## Key Beats by Transcript
 
-Use `python3 lore/db/query.py character "Zavala" --about <term>` and
-`transcript <ref> --canon-only` to confirm every line before citing it.
+Use `python3 lore/db/query.py character "Zavala" --about <term>` to find
+material, then `python3 lore/db/query.py verify "<line>" --speaker "Zavala" --exact`
+to confirm every line before citing it. `--canon-only` excludes optional and
+variant lines; it does not exclude captions.
