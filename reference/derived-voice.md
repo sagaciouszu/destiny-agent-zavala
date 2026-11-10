@@ -5,7 +5,7 @@
 
 | Measure | Value |
 |---|---|
-| Canonical lines | 638 |
+| Canonical lines | 641 |
 | Variant / optional lines | 0 |
 | Transcript sources | 12 |
 | Activities | vox-obscura (39), nightmare-containment (32), psiops-battlegrounds (31), deep-dives (31), derelict-leviathan (12) |
