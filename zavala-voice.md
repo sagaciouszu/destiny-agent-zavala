@@ -10,10 +10,10 @@
 |---|---|
 | Canonical lines | 641 |
 | Variant / optional lines | 0 |
-| Transcript sources | 12 |
-| Activities | vox-obscura (39), nightmare-containment (32), derelict-leviathan (12), battlegrounds-chosen (11), contact (10) |
-| Seasons | season-of-the-deep (74), season-of-the-haunted (47), season-of-the-risen (40), season-of-arrivals (22), season-of-the-chosen (15) |
-| Source tiers | ishtar_web (478), ishtar_main (73), cutscene (13), ishtar_commons (8), validated (2), published (1) |
+| Transcript sources | 116 |
+| Activities | vox-obscura (39), nightmare-containment (32), psiops-battlegrounds (31), deep-dives (31), derelict-leviathan (12) |
+| Seasons | season-of-the-deep (105), season-of-the-risen (72), season-of-the-haunted (61), season-of-arrivals (48), season-of-the-worthy (26) |
+| Source tiers | ishtar_web (479), ishtar_main (75), youtube_captions (31), destinypedia (31), cutscene (14), ishtar_commons (8), validated (2), published (1) |
 | Average sentence | 7.2 words |
 | Contractions | 45% of lines |
 | Questions | 18% of lines |

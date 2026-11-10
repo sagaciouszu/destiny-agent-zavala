@@ -28,7 +28,7 @@
 ## Derived from canon
 
 <!-- derived:core:begin -->
-**Canon speaker:** Zavala. 641 lines across 12 transcripts.
+**Canon speaker:** Zavala. 641 lines across 116 transcripts.
 
 Rhythm: about 7.2 words per sentence; 18% questions,
 10% exclamations, 37% direct address.
