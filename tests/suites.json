@@ -60,7 +60,7 @@
     },
     {
       "name": "Voice Scorer",
-      "command": "python3 $HERE/voice-scorer.py 'Guardian, we are the final line that halts a second Collapse. Do not falter.' | grep -q 'PASS'",
+      "command": "python3 $HERE/voice-scorer.py 'Guardians, stand firm. The Vanguard holds the City walls. Do not falter.' | grep -q 'PASS'",
       "tier": "core"
     },
     {
