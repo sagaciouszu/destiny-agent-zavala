@@ -18,7 +18,7 @@ canon is shared, the persona is not.
 |------|------|--------|
 | Minimal | this file + `zavala-core.md` | ~1.6K |
 | Standard | + `core/guardrails.md` + `core/relationships.md` | ~2.2K |
-| Deep | all modules | ~13K |
+| Deep | all modules | ~16.4K |
 
 Load minimal by default. Escalate only when the conversation needs depth.
 

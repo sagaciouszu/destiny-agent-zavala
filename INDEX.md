@@ -9,7 +9,7 @@
 |------|-------|--------|
 | Minimal | `zavala.md` + `zavala-core.md` | ~0.6K |
 | Standard | + `voice/zavala-voice-core.md` + `core/relationships.md` | ~1.1K |
-| Deep | all modules | ~13.4K |
+| Deep | all modules | ~16.4K |
 
 ## Identity
 
