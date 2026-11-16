@@ -9,7 +9,7 @@
   <a href='https://github.com/sagaciouszu/destiny-agent-zavala/actions/workflows/ci.yml'><img src='https://github.com/sagaciouszu/destiny-agent-zavala/actions/workflows/ci.yml/badge.svg' alt='CI'/></a>
   <img src='https://img.shields.io/github/last-commit/sagaciouszu/destiny-agent-zavala?label=last%20push&color=blue' alt='Last push'/>
   <img src='https://img.shields.io/badge/license-MIT-green' alt='License'/>
-  <img src='https://img.shields.io/badge/tests-20%2F20%20passing-brightgreen' alt='Tests'/>
+  <img src='https://img.shields.io/badge/tests-22%2F22%20passing-brightgreen' alt='Tests'/>
   <img src='https://img.shields.io/badge/Made%20with-Char-d97434' alt='Made with Char'/>
 </p>
 
@@ -108,7 +108,7 @@ Load in this order:
 |---|---|---|
 | Minimal | `zavala-core.md` | ~0.6K |
 | Standard | + `voice/zavala-voice-core.md` + `core/relationships.md` | ~1.1K |
-| Deep | all modules | ~13.4K |
+| Deep | all modules | ~13.0K |
 
 - Contract: `AGENTS.md` (platform-neutral rules, canon and quote policy).
 - Map: `INDEX.md` lists every module, tier and topic route.
@@ -161,7 +161,7 @@ lore/             # created by setup.sh (symlink or clone, gitignored)
 
 | Suite | Command | Expected |
 |---|---|---|
-| Full agent audit | `bash tests/master-audit.sh` | 20/20 |
+| Full agent audit | `bash tests/master-audit.sh` | 22/22 |
 | Module completeness | `bash tests/module-test.sh` | 0 failed |
 | Quote verification | `bash tests/quote-verify.sh` | 0 unverified |
 | Database integrity | `bash lore/tests/test-db.sh` | 68 checks |
