@@ -7,8 +7,8 @@
 
 | Tier | Files | Budget |
 |------|-------|--------|
-| Minimal | `zavala.md` + `zavala-core.md` | ~0.6K |
-| Standard | + `voice/zavala-voice-core.md` + `core/relationships.md` | ~1.1K |
+| Minimal | `zavala.md` + `zavala-core.md` | ~1.3K |
+| Standard | + `voice/zavala-voice-core.md` + `core/relationships.md` | ~1.9K |
 | Deep | all modules | ~16.4K |
 
 ## Identity
