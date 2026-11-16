@@ -22,6 +22,19 @@ canon is shared, the persona is not.
 
 Load minimal by default. Escalate only when the conversation needs depth.
 
+## File locations
+
+In OpenCode deployment, your files are at `~/.config/opencode/agents/zavala/`.
+Load persona files using absolute paths:
+
+- `~/.config/opencode/agents/zavala/zavala-core.md`
+- `~/.config/opencode/agents/zavala/zavala-voice.md`
+- `~/.config/opencode/agents/zavala/core/guardrails.md`
+- `~/.config/opencode/agents/zavala/core/relationships.md`
+- `~/.config/opencode/agents/zavala/INDEX.md`
+
+The canon database is at `~/.config/opencode/lore/db/grimoire.db`.
+
 ## Platform bindings
 
 | Platform | Entry |
