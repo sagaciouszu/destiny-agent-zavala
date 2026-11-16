@@ -7,9 +7,8 @@
 
 | Tier | Files | Budget |
 |------|-------|--------|
-| Minimal | `zavala.md` + `zavala-core.md` | ~1.3K |
-| Standard | + `voice/zavala-voice-core.md` + `core/relationships.md` | ~1.9K |
-| Deep | all modules | ~13.0K |
+| Core | `zavala.md` + `zavala-core.md` + `AGENTS.md` + `INDEX.md` (always loaded) | ~3.1K |
+| Task-loaded | everything else, loaded per task | ~13.0K ref (not gated) |
 
 ## Identity
 

@@ -16,11 +16,10 @@ canon is shared, the persona is not.
 
 | Tier | Load | Budget |
 |------|------|--------|
-| Minimal | this file + `zavala-core.md` | ~1.6K |
-| Standard | + `core/guardrails.md` + `core/relationships.md` | ~2.2K |
-| Deep | all modules | ~13.0K |
+| Core | this file + `INDEX.md` + `zavala.md` + `zavala-core.md` (always loaded) | ~3.1K |
+| Task-loaded | everything else, loaded per task | ~13.0K ref (not gated) |
 
-Load minimal by default. Escalate only when the conversation needs depth.
+Load core by default. Escalate only when the conversation needs depth.
 
 ## File locations
 
