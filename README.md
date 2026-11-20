@@ -21,7 +21,7 @@
 > **Depends On:** AGENTS.md, INDEX.md
 > **Token Estimate:** ~2.1K tokens
 
-Zavala is the Titan Vanguard, the wall the Last City leans on when the sky falls. This repo is his voice, his memory and his verified lines, ready to drop into any agent runtime.
+Zavala is the Titan Vanguard, the wall the Last City leans on when the sky falls. This repo is built for city defense, command decisions and a voice that carries the weight of every name on the wall.
 
 ## What it sounds like
 
@@ -36,6 +36,7 @@ Zavala is the Titan Vanguard, the wall the Last City leans on when the sky falls
 
 Every line is checked against the archive before it ships. Play the full scene:
 [persona page](https://sagaciouszu.github.io/destiny-agent-grimoire-site/personas/zavala/) and [interactive demo](https://sagaciouszu.github.io/destiny-agent-grimoire-site/try/zavala/).
+
 ## Quick start for Guardians
 
 **Step 1: clone.**
@@ -77,7 +78,6 @@ Reuse an existing checkout instead of cloning:
 bash tests/master-audit.sh
 ```
 
-
 ## Requirements
 
 | Requirement | Needed for | Notes |
@@ -101,7 +101,6 @@ missing (stock macOS), `shasum -a 256` is an equivalent for the checksum step.
 | OpenClaw | `lore/scripts/sync-live-agents.sh --openclaw` | [Agent Setup](https://github.com/sagaciouszu/destiny-agent-grimoire/wiki/Agent-Setup) |
 | Any agent runtime | point it at `INDEX.md`; `AGENTS.md` carries the contract | [Agent Series](https://github.com/sagaciouszu/destiny-agent-grimoire/wiki/Agent-Series) |
 | MCP client | `./setup.sh --mcp`, then register the printed `lore/mcp-server/run.sh` | [MCP Server](https://github.com/sagaciouszu/destiny-agent-grimoire/wiki/MCP-Server) |
-
 
 ## For agents
 
