@@ -47,6 +47,7 @@
 | File | Purpose |
 |------|---------|
 | `voice/zavala-voice-core.md` | core voice DNA |
+| `voice/zavala-voice-quotes.md` | verified voice quotes |
 
 ## World
 
